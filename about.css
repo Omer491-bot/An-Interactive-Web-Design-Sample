@@ -1,0 +1,106 @@
+    body {
+      font-family: sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f8f8f8;
+    }
+
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+
+    header {
+      background-color: #fff;
+      padding: 20px 0;
+      border-bottom: 1px solid #eee;
+    }
+
+    .logo {
+      display: inline-block;
+      margin-right: 20px;
+    }
+
+    nav {
+      float: right;
+    }
+
+    nav ul {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+    }
+
+    nav li {
+      display: inline-block;
+      margin-right: 20px;
+    }
+
+    nav a {
+      color: #333;
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+    .hero {
+      text-align: center;
+      padding: 80px 0;
+    }
+
+    .hero h1 {
+      font-size: 48px;
+      margin-bottom: 20px;
+    }
+
+    .hero p {
+      font-size: 18px;
+      line-height: 1.5;
+      color: #666;
+    }
+
+    .cta {
+      display: inline-block;
+      background-color: #f4d35e;
+      color: #fff;
+      padding: 15px 30px;
+      border-radius: 5px;
+      text-decoration: none;
+      font-weight: bold;
+      margin-top: 20px;
+    }
+
+    .about {
+      padding: 80px 0;
+    }
+
+    .about .image {
+      float: left;
+      margin-right: 30px;
+    }
+
+    .about .content {
+      margin-left: 330px;
+    }
+
+    .about .content h2 {
+      font-size: 32px;
+      margin-bottom: 20px;
+    }
+
+    .about .content p {
+      font-size: 18px;
+      line-height: 1.5;
+      color: #666;
+    }
+
+    footer {
+      background-color: #eee;
+      padding: 20px 0;
+      text-align: center;
+    }
+
+    footer p {
+      color: #666;
+      font-size: 14px;
+    }
